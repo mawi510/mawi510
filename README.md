@@ -1,4 +1,4 @@
-## Welcome 👋 
+## Hi, I'm Mawi 👋 
 
 - 🔭 Look at my [projects repo](https://github.com/mawi510/projects) to see what new projects I'm working on
 - 🌱 I’m currently learning deep-learning models using PyTorch
