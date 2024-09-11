@@ -1,7 +1,7 @@
 ## Hi, I'm Mawi 👋 
 
 - 🔭 Look at my [projects repo](https://github.com/mawi510/projects) to see what new projects I'm working on
-- 🌱 I’m currently learning deep-learning models using PyTorch
+- 🌱 I’m currently building deep-learning models using PyTorch
 - 💬 Ask me about my journey as a self-taught data scientist
 - 📫 How to reach me: d_fasil[at]hotmail.com
 - 😄 Pronouns: he/him
